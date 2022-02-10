@@ -15,7 +15,8 @@ public class Sample2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("2nd Semd");
+        System.out.println("2nd Send");
+        System.out.println("This is the second push");
     }
     
 }
